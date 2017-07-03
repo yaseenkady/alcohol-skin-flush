@@ -1,4 +1,4 @@
-# Simple Genome App Guide
+# Alcohol Skin Flush
 
 ## Basic Steps
 
