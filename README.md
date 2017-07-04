@@ -1,15 +1,18 @@
 # Alcohol Skin Flush
 
-![alt text](http://www.ozonetherapymalaysia.com/wp-content/uploads/hearthealth.jpg)
+![alt text](https://www.eatrightontario.ca/EatRightOntario/media/Website-images-resized/Alcohol-v-2-resized.jpg)
 
 ## Background
 
-Cardiovascular disease (CVD) is the leading cause of death globally<sup>1</sup>. It is estimated that over 90% of CVD is preventable through strategies such as healthy eating, regular exercise and alcohol intake reduction<sup>2</sup>. A class of lipid-lowering medications called **statins** have been shown to reduce CVD in individuals who are at high risk — they work by inhibiting an enzyme called HMG-CoA that is responsible for producing cholesterol (a type of lipid)<sup>3</sup>. Genetic differences in simvastatin metabolization have been shown to affect myopathy (muscle damage) risk and are covered in this analysis<sup>4</sup>.
+Alcohol flush reaction is a condition in which individuals, following consumption of alcohol, develop a reddening of the skin on the face, upper body, and in some cases the whole body. It is colloquially known as "Asian Flush" or "Asian Blush" due to the fact that a significant portion of East Asians (Korean, Japanese, and Chinese) experience this physical reaction<sup>1</sup>. The cause of these symptoms comes from genetic differences in a breakdown enzyme known as dehydrogenase — those affected with the condition carry a variant that speeds up the breakdown of alcohol into a toxic byproduct known as acetaldehyde. Acetaldehyde is responsible for the physical manifestation of skin blotchiness/reddness<sup>2</sup>.
+
+## Did you know?
+
+Those that carry the ALDH2 enzyme variant, i.e. those who experience alcohol flush reaction, on average are less likely to suffer from alcoholism as a result of the negative physical effects of consuming alcohol<sup>2</sup>!
 
 ## Where does this Genome App look?
 
-This analysis looks at your genetic information presented at the rs4149056 single-nucleotide polymorphism — located on the SLCO1B1 gene of chromosome 12.
-
+This analysis looks at your genetic information presented at the rs671 single-nucleotide polymorphism — located on the ALDH2 gene of chromosome 12<sup>3</sup>.
 
 ## Medical Disclaimer
 
@@ -17,7 +20,6 @@ Your results and genetic information from this analysis are not intended to be a
 
 
 ###### Sources
-###### 1. Mendis, Shanthi, Pekka Puska, and Bo Norrving. Global atlas on cardiovascular disease prevention and control. World Health Organization, 2011.
-###### 2. McGill, Henry C., C. Alex McMahan, and Samuel S. Gidding. "Preventing heart disease in the 21st century." Circulation 117.9 (2008): 1216-1227.
-###### 3. Taylor, Fiona, et al. "Statins for the primary prevention of cardiovascular disease." Cochrane database syst rev 1.1 (2011).
-###### 4. https://www.pharmgkb.org/guideline/PA166105005
+###### 1. Brooks, Philip J., et al. "The alcohol flushing response: an unrecognized risk factor for esophageal cancer from alcohol consumption." PLoS medicine 6.3 (2009): e1000050.
+###### 2. Peng, Yi, et al. "The ADH1B Arg47His polymorphism in East Asian populations and expansion of rice domestication in history." BMC evolutionary biology 10.1 (2010): 15.
+###### 3. https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs=671
